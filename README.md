@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **M.Sc(Artificial Intelligence)**
 
-- 👨‍💻 All of my projects are available at [https://resume-60028780174.development.catalystserverless.in/app/index.html](https://resume-60028780174.development.catalystserverless.in/app/index.html)
+- 👨‍💻 All of my projects are available at https://samrajji.github.io/portfolio/
 
 - 📫 How to reach me **nsraj1713@gmail.com**
 
