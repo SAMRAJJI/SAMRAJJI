@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nsraj1713@gmail.com**
 
-- 📄 Know about my experiences [https://resume-60028780174.development.catalystserverless.in/app/index.html](https://resume-60028780174.development.catalystserverless.in/app/index.html)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sam-rajji-19166720b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sam-rajji-19166720b" height="30" width="40" /></a>
